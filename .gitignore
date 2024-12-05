@@ -1,0 +1,19 @@
+.env
+
+# Binários compilados
+/bin/
+/obj/
+
+# Diretórios do Go
+/vendor/
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários de IDE
+.idea/
+.vscode/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
